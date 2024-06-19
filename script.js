@@ -2,7 +2,7 @@
 // Title tab
 window.onload = function () {
   let pageTitle = document.title;
-  let attentionMessage = "Come Back 🙏🙏";
+  let attentionMessage = "Come Back.....";
   let blinkEvent = null;
 
   document.addEventListener("visibilitychange", function (e) {
